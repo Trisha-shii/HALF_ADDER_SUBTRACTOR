@@ -49,7 +49,11 @@ Figure -02 HALF Subtractor
 
 **Truthtable:**
 
+*HALF ADDER*
+
 ![image](https://github.com/user-attachments/assets/a6eb520d-5e92-4fff-a342-eeec4e778087)
+
+*HALF SUBTRACTOR*
 
 ![image](https://github.com/user-attachments/assets/ebc25ced-e3de-4a99-ae3c-93bb14693305)
 
@@ -84,15 +88,24 @@ endmodule
 
 **RTL:**
 
+*HALF ADDER*
+
 <img width="697" alt="EXP 3 DE HA RTL" src="https://github.com/user-attachments/assets/20a046af-b279-4c16-b038-2f5f623e4ceb" />
+
+*HALF SUBTRACTOR*
 
 <img width="628" alt="EXP 3 DE HS RTL" src="https://github.com/user-attachments/assets/82ddd95f-c241-43c5-95b0-14fb94a0afe1" />
 
 
 **TIMING Waveform:**
 
+
+*HALF ADDER*
+
 <img width="960" alt="EXP 3 DE HA WF" src="https://github.com/user-attachments/assets/f4ce932a-0fe0-4bc1-9b4d-1e2ed7583ed3" />
 
+
+*HALF SUBTRACTOR*
 
 <img width="959" alt="EXP 3 DE HS WF" src="https://github.com/user-attachments/assets/6be21860-02b8-46a2-b3e3-03c5f65f3897" />
 
